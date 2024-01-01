@@ -13,3 +13,9 @@ Technologies used:
 Explore the App:
 
 - **Watch the Demo**: [YouTube](https://youtu.be/BTqkQSejvXo).
+
+## Companion app
+
+- We also created a standalone ReactJS application for the restaurant owners to manage their food items and orders. The source can can be found here: [food-ordering-admin](https://github.com/jenslys/food-ordering-admin)
+
+- Watch the Demo for that app [YouTube](https://youtu.be/tUGd6NJx32k).
