@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pizza_sizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </array>
+        <string-array name="filter_options">
+            <item>Name</item>
+            <item>Price Ascending</item>
+            <item>Price Descending</item>
+        </string-array>
+</resources>
