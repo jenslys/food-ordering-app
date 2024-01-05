@@ -1,4 +1,4 @@
-# Simplified Food Ordering App
+# Food Ordering App
 
 Easy-to-use food ordering app for android. Created for our MOB3000 course at USN.
 
